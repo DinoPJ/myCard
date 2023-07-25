@@ -127,6 +127,8 @@ class MyCard extends StatelessWidget {
                   Image.asset(
                     "assets/images/instagram.png",
                     height: 60.0,
+
+                    //codigo completado en su totalidad y subido a github
                   )
                 ],
               ),
